@@ -15,7 +15,9 @@ Reviewing the temperature data, there are three key differences which will be hi
 * The temperature is more consistent in June versus December.  Given a standard deviation of 3.75 °F in December versus 3.26 °F in June, one can expect more variable temperature ranges in December.  This can also be observed in the range of temperatures, which is 27 °F for December and only 11 °F for June.  
 
 ## Summary
-Summary of above, pluse two additional queries
+While there are some differences in the temperature data from June and December, ultimately these differences are minor.  For example, there is only a 4 °F difference in the mean temperatures of 75 °F and 71 °F in June and December, respectively.  This same 4 °F can be found in the quartile statistics as well and suggest that during any time of the year the temperature is comfortable in Oahu.  
+
+Given that the temperature is expected to be comfortable year-round, the other weather factor that could impact a surf and ice cream shop is the precipitation.  Too much rain could lessen the chance of locals going out to surf or get ice cream.  In order to determine how much rain one can expect in a given month, t
 
 ![screenshot of first additional query](screenshots/additional_query1.png)
 
