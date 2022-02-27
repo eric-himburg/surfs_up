@@ -17,11 +17,11 @@ Reviewing the temperature data, there are three key differences which will be hi
 ## Summary
 While there are some differences in the temperature data from June and December, ultimately these differences are minor.  For example, there is only a 4 °F difference in the mean temperatures of 75 °F and 71 °F in June and December, respectively.  This same 4 °F can be found in the quartile statistics as well and suggest that during any time of the year the temperature is comfortable in Oahu.  The hottest temperature recorded 85 °F is not too hot and the chilliest temperature of 56 °F is not too chilly.    
 
-Given that the temperature is expected to be comfortable year-round, the other weather factor that could impact a surf and ice cream shop is the precipitation.  Too much rain could lessen the chance of locals going out to surf or get ice cream.  In order to determine how much rain one can expect in a given month, t
+Given that the temperature is expected to be comfortable year-round, the other weather factor that could impact a surf and ice cream shop is the precipitation.  Too much rain could lessen the chance of locals going out to surf or get ice cream.  In order to determine how much rain one can expect in a given month, the summary statistics for the precipitation for the months of June and December were generated and can be viewed in the tables below.  
 
-![screenshot of first additional query](screenshots/additional_query1.png)
+![screenshot of first additional query](screenshots/june_prcp.png)
 
-![screenshot of second additional query](screenshots/additional_query2.png)
+![screenshot of second additional query](screenshots/dec_prcp.png)
 
 
  
