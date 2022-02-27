@@ -10,7 +10,7 @@ Reviewing the temperature data, there are three key differences which will be hi
 
 ![screenshot of December data](screenshots/dec_stats.png)
 
-* It is more likely for the temperature in December to be considered "chilly" than it is in June.  If one assumes that temperatures below 65 °F are considered chilly in a tropical climate, it is very unlikely that it will ever be chilly in the month of June given a minimum temperature of 64 °F and a 1st quartile temperature of 73°F.  It is much more likely for it be considered "chilly" in December with a minimum temperature of 56 °F and a 1st quartile temperature of 69°F.  Cool temperatures are more likely in December and 
+* It is more likely for the temperature in December to be considered "chilly" than it is in June.  If one assumes that temperatures below 65 °F are considered chilly in a tropical climate, it is very unlikely that it will ever be chilly in the month of June given a minimum temperature of 64 °F and a 1st quartile temperature of 73°F.  It is much more likely for it be considered "chilly" in December with a minimum temperature of 56 °F and a 1st quartile temperature of 69°F.  
 
 * The temperature is more consistent in June versus December.  Given a standard deviation of 3.75 °F in December versus 3.26 °F in June, one can expect more variable temperature ranges in December.  This can also be observed in the range of temperatures, which is 27 °F for December and only 11 °F for June.  
 
